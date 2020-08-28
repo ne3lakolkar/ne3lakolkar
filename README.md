@@ -5,3 +5,7 @@
 <a href="https://github.com/ne3lakolkar/oneFootball">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=oneFootball&theme=radical" />
 </a>
+
+<a href="https://github.com/ne3lakolkar/oneFootball">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=BricManiac&theme=radical" />
+</a>
