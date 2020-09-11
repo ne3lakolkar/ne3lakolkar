@@ -11,7 +11,7 @@
   <img src="https://profile-count.glitch.me/ne3lakolkar/count" />
 </p>
 
-![mg](https://komarev.com/ghpvc/?username=ne3lakolkar)
+![count](https://komarev.com/ghpvc/?username=ne3lakolkar&label=PROFILE+VIEW+COUNTER)
 
 <p class="aligncenter">
     <img src="https://github-readme-stats.vercel.app/api?username=ne3lakolkar&show_icons=true&theme=radical&count_private=true" alt="centered image" />
