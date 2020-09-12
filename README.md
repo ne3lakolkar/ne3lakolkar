@@ -1,4 +1,4 @@
-### Hola! 👋, I'm [Neel Akolkar!](https://www.twitter.com/ne3lakolkar)
+### Hola! 👋, I'm [Neel Akolkar!](https://ne3lakolkar.itch.io)
 <a href="https://www.linkedin.com/in/ne3lakolkar">
   <img align="left" alt="Vishnu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
