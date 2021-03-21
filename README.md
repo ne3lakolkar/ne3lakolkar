@@ -31,6 +31,7 @@
 <a href="https://github.com/ne3lakolkar/BricManiac">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=BricManiac&theme=radical" />
 </a>
+.
 
 <a href="https://github.com/ne3lakolkar/ASSETS-KITCoEK">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=ASSETS-KITCoEK&theme=radical" />
