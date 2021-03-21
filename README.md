@@ -3,7 +3,7 @@
   <img align="left" alt="Vishnu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/ne3lakolkar">
-  <img align="left" alt="Vishnu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 &nbsp;
@@ -33,5 +33,5 @@
 </a>
 
 <a href="https://github.com/ne3lakolkar/ASSETS-KITCoEK">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=oneFootball&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=ASSETS-KITCoEK&theme=radical" />
 </a>
