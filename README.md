@@ -19,10 +19,11 @@
 
 
 ![count](https://komarev.com/ghpvc/?username=ne3lakolkar&color=blue&style=plastic&label=PROFILE+VIEW+COUNTER)
-
 <p class="aligncenter">
     <img src="https://github-readme-stats.vercel.app/api?username=ne3lakolkar&show_icons=true&theme=radical&count_private=true&commits=200" alt="centered image" />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ne3lakolkar&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 <a href="https://github.com/ne3lakolkar/oneFootball">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=oneFootball&theme=radical" />
