@@ -29,10 +29,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=Mask-Detector-using-TensorFlow&theme=radical" />
 </a>
 
-<a href="https://github.com/ne3lakolkar/Hand-Tracking-using-Python-and-MediaPipe">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=Hand-Tracking-using-Python-and-MediaPipe&theme=radical" />
+<a href="https://github.com/ne3lakolkar/Hand-Tracking-using-MediaPipe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=Hand-Tracking-using-MediaPipe&theme=radical" />
 </a>
 
 <a href="https://github.com/ne3lakolkar/ASSETS-KITCoEK">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=ASSETS-KITCoEK&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=ASSETS-KITCoEK&theme=radical" />
 </a>
