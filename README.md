@@ -2,7 +2,7 @@
 - I'm currently pursuing B.Tech in Electronics & Telecommunications.
 - I’m currently working on UI UX Designing and enthusiastic in AI & ML fields.
 - How to reach me: neelakolkar2001@gmail.com
-- Have a look at my [Resume](https://drive.google.com/file/d/1DpGPDwimY0udT1HC-oIJG78bJyZ3jqXp/view)
+- Have a look at my [resume](https://drive.google.com/file/d/1l6onGwHfclSCb7RkF6pNYtKPBdSusp2r/view?usp=sharing)
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/ne3lakolkar" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="ne3lakolkar" height="30" width="40" /></a>
