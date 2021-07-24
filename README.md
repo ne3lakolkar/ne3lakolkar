@@ -25,12 +25,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ne3lakolkar&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-<a href="https://github.com/ne3lakolkar/oneFootball">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=oneFootball&theme=radical" />
+<a href="https://github.com/ne3lakolkar/Mask-Detector-using-TensorFlow">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=Mask-Detector-using-TensorFlow&theme=radical" />
 </a>
 
-<a href="https://github.com/ne3lakolkar/BricManiac">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=BricManiac&theme=radical" />
+<a href="https://github.com/ne3lakolkar/Hand-Tracking-using-Python-and-MediaPipe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=Hand-Tracking-using-Python-and-MediaPipe&theme=radical" />
 </a>
 
 <a href="https://github.com/ne3lakolkar/ASSETS-KITCoEK">
