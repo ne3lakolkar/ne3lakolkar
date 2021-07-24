@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/ne3lakolkar/Hand-Tracking-using-Python-and-MediaPipe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=Hand-Tracking-using-Python-and-MediaPipe&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ne3lakolkar&repo=Hand-Tracking-Module&theme=radical" />
 </a>
 
 <a href="https://github.com/ne3lakolkar/ASSETS-KITCoEK">
