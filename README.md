@@ -1,6 +1,6 @@
 # Hi!👋 I'm Neel Akolkar
 - I'm currently pursuing B.Tech in Electronics & Telecommunications.
-- I’m currently working on UI UX Designing and enthusiastic in AI & ML fields.
+- I’m currently working on Interaction Design and User Experience.
 - How to reach me: neelakolkar2001@gmail.com
 - Have a look at my [resume](https://drive.google.com/file/d/1l6onGwHfclSCb7RkF6pNYtKPBdSusp2r/view?usp=sharing)
 ## Connect with me:
