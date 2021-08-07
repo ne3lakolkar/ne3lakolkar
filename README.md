@@ -1,4 +1,4 @@
-# Hi!👋 I'm Neel Akolkar
+# <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola! My name is Neel</h2>
 - I'm currently pursuing B.Tech in Electronics & Telecommunications.
 - I’m currently working on Interaction Design and User Experience.
 - How to reach me: neelakolkar2001@gmail.com
