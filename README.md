@@ -1,6 +1,8 @@
 # <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola! My name is Neel</h2>
 - B.Tech in Electronics & Telecommunications.
-- I’m currently working on Interaction Design and User Experience.
+- Senior Analyst / Software Engineer -II
+- I’m currently working on AI, Chatbots, and Automation.
+- Interaction Design and User Experience Enthusiast.
 - How to reach me: neelakolkar2001@gmail.com
 - Have a look at my [resume](https://drive.google.com/file/d/1yFOnbYPJLBHruf7McodXncSsuIGAyEJD/view?usp=sharing)
 ## Connect with me:
